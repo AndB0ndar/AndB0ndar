@@ -10,8 +10,6 @@ If you're interested, here are my stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndB0ndar&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndB0ndar&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndB0ndar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **AndB0ndar/AndB0ndar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
